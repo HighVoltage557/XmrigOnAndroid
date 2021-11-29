@@ -12,7 +12,7 @@ Link to UserLand repository: `https://github.com/CypherpunkArmory/UserLAnd`
 1.3) It will install Ubuntu and start a terminal session. Enter password to login
 
 ### 2) Download the script to compile xmrig and run it:
-```sudo apt update -y && sudo apt install wget -y wget https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compile.sh && chmod +x compile.sh && compile.sh```
+```sudo apt update -y && sudo apt install wget -y && wget https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compile.sh && chmod +x compile.sh && compile.sh```
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
 
