@@ -18,9 +18,7 @@
 
 ```cd && cd xmrig/build && sudo ./xmrig -a Algo_Name -o pool:port -u Wallet_Address -p Password```
 
-**3.1) If you want to use the config, which has many additional features, follow these instructions:**
+**3.1) If you want to use the config, which has many additional features, Go to https://xmrig.com/wizard generate the config and paste the config in a file named `config.json` in `xmrig/build`**
 
-Go to https://xmrig.com/wizard generate the config and paste the config in a file named `config.json` in `xmrig/build`
-
-Then to run it:
+Then to run the miner if you're using the `config`:
 ```cd && cd xmrig/build && sudo ./xmrig```
