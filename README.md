@@ -20,5 +20,5 @@
 
 **3.1) If you want to use the config, which has many additional features, Go to https://xmrig.com/wizard generate the config and paste the config in a file named `config.json` in `xmrig/build`**
 
-Then to run the miner if you're using the `config`:
+Then to run the miner if you're using the config:
 ```cd && cd xmrig/build && sudo ./xmrig```
