@@ -18,7 +18,7 @@ This script will compile xmrig and will place the built xmrig executable in the 
 
 ### 3) To run the miner:
 
-```cd && cd xmrig/build && sudo ./xmrig -a Algo_Name -o pool:port -u Wallet_Address -p Password```
+```cd && cd xmrig/build && sudo ./xmrig -a Algorithm_Name -o pool:port -u Wallet_Address -p Password```
 
 3.1) If you want to use the config, which has many additional features, Go to https://xmrig.com/wizard generate the config and paste the config in a file named `config.json` in `xmrig/build`
 
