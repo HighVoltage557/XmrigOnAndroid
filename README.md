@@ -1,7 +1,7 @@
 # XmrigOnAndroid
 ## Small setup script and instructions for building xmrig on Ubuntu on android with GCC. Setup instructions as follows:
 
-### 1. Install Ubuntu on your android device using an app UserLAnd:
+### 1) Install Ubuntu on your android device using an app UserLAnd:
 
 Link to UserLand repository: `https://github.com/CypherpunkArmory/UserLAnd`
 
