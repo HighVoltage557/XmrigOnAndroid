@@ -49,7 +49,7 @@ Link to UserLand repository: https://github.com/CypherpunkArmory/UserLAnd
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
 
-### 3. To run the xmrig:
+### 3. To run xmrig:
 
 ```cd && cd xmrig/build && sudo ./xmrig -a Algorithm_Name -o pool:port -u Wallet_Address -p Password```
 
