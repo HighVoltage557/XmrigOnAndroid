@@ -13,7 +13,7 @@
 ## (1) Compiling xmrig with Clang in termux:
 
 ### 1. Install termux on your device:
-Link to termux repository: `https://github.com/termux/termux-app/`
+Link to termux repository: https://github.com/termux/termux-app/
 You can get the apk from releases and install it.
 
 ### 2. Download the script to compile xmrig and run it:
@@ -36,7 +36,7 @@ This script will compile xmrig and will place the built xmrig executable in the 
 
 ### 1. Install Ubuntu on your android device using an app UserLAnd:
 
-Link to UserLand repository: `https://github.com/CypherpunkArmory/UserLAnd`
+Link to UserLand repository: https://github.com/CypherpunkArmory/UserLAnd
 
 1.1) Open the app, agree/disagree with data collection, give permisson to write data
 
@@ -64,10 +64,10 @@ This script will compile xmrig and will place the built xmrig executable in the 
 A brief description of moneroocean: 
 Moneroocean is a monero mining pool where you can mine altcoins and get paid in XMR. Their fork of xmrig runs a benchmark, stores the hashrate of many coins which are in xmrig and mines whichever is the most profitable.
 When the pool finds a block, it is exchanged to XMR and you get paid for your raw hashrate converted to equivalent XMR hashrate.
-Github Repository: `https://github.com/moneroocean/xmrig`
+Github Repository: https://github.com/moneroocean/xmrig
 
 ### 1. Install termux on your device from fdroid
-Link to termux repository: `https://github.com/termux/termux-app/`
+Link to termux repository: https://github.com/termux/termux-app/
 You can get the apk from releases and install it.
 
 ### 2. Download the script to compile xmrig and run it:
