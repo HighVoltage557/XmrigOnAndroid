@@ -1,9 +1,9 @@
 # XmrigOnAndroid
 
-### You have 2 options to compile xmrig on android, one is to compile directly in termux with clang without hwloc and the second is to install a linux distribution running on andoid and compile with GCC and hwloc.
-### In my testing with both ways work well on all algorithms except ghostrider. Building in termux without hwloc results in a large number of rejected shares on ghostrider (66% rejects in my tests only on ghostrider without hwloc)
-### Unless you want to mine with ghostrider algorithm, use termux as it is easier. 
-### You can algo compile moneroocean's fork of xmrig, see (3)
+**You have 2 options to compile xmrig on android, one is to compile directly in termux with clang without hwloc and the second is to install a linux distribution running on andoid and compile with GCC and hwloc.
+In my testing with both ways work well on all algorithms except ghostrider. Building in termux without hwloc results in a large number of rejected shares on ghostrider (66% rejects in my tests only on ghostrider without hwloc)
+Unless you want to mine with ghostrider algorithm, use termux as it is easier. 
+You can algo compile moneroocean's fork of xmrig, see (3)**
 
 ## (1) Compiling xmrig with Clang in termux:
 
