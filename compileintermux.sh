@@ -10,5 +10,5 @@ figlet -f small Compiling xmrig
 cmake -DWITH_HWLOC=OFF ..
 make -j$(nproc)
 figlet -f small Done compiling
-sudo apt remove figlet -y
+apt remove figlet -y
 echo Removed extra packages
