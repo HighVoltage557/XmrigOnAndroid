@@ -68,7 +68,7 @@ When the pool finds a block, it is exchanged to XMR and you get paid for your ra
 
 Github Repository: https://github.com/moneroocean/xmrig
 
-### 1. Install termux on your device from fdroid
+### 1. Install termux on your device:
 Link to termux repository: https://github.com/termux/termux-app/
 You can get the apk from releases and install it.
 
