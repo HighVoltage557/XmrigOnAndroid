@@ -6,7 +6,7 @@ figlet -f small Cloning repository
 git clone https://github.com/xmrig/xmrig
 mkdir xmrig/build
 cd xmrig/build
-figlet -f small Compiling miner
+figlet -f small Compiling xmrig
 cmake ..
 make -j$(nproc)
 figlet -f small Done compiling
