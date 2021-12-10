@@ -7,7 +7,7 @@ git clone https://github.com/xmrig/xmrig
 mkdir xmrig/build
 cd xmrig/build
 figlet -f small Compiling xmrig
-cmake ..
+cmake -DWITH_HWLOC=OFF ..
 make -j$(nproc)
 figlet -f small Done compiling
 sudo apt remove figlet -y
