@@ -4,7 +4,7 @@
 
 **In my testing with both ways work well on all algorithms except ghostrider. Building in termux without hwloc results in a large number of rejected shares on ghostrider (66% rejects in my tests only on ghostrider without hwloc)**
 
-**Unless you want to mine with ghostrider algorithm, use termux as it is easier. **
+**Unless you want to mine with ghostrider algorithm, use termux as it is easier.**
 
 **You can algo compile moneroocean's fork of xmrig, see (3)**
 
