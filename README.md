@@ -8,6 +8,8 @@
 
 **You can algo compile moneroocean's fork of xmrig, see (3)**
 
+<br />
+
 ## (1) Compiling xmrig with Clang in termux:
 
 ### 1. Install termux on your device:
@@ -28,7 +30,7 @@ This script will compile xmrig and will place the built xmrig executable in the 
 3.1.2) Then to run xmrig if you're using the config:
 ```cd && cd xmrig/build && ./xmrig```
 
-
+<br />
 
 ## (2) Setup script and instructions for building xmrig on Ubuntu on android with GCC. Setup instructions as follows:
 
@@ -56,7 +58,7 @@ This script will compile xmrig and will place the built xmrig executable in the 
 3.1.2) Then to run xmrig if you're using the config:
 ```cd && cd xmrig/build && sudo ./xmrig```
 
-
+<br />
 
 ## (3) Compiling Moneroocean's fork xmrig in termux:
 A brief description of moneroocean: 
