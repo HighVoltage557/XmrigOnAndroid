@@ -63,9 +63,9 @@ This script will compile xmrig and will place the built xmrig executable in the 
 ## (3) Compiling Moneroocean's fork xmrig in termux:
 A brief description of moneroocean: 
 Moneroocean is a monero mining pool where you can mine altcoins and get paid in XMR. Their fork of xmrig runs a benchmark, stores the hashrate of many coins which are in xmrig and mines whichever is the most profitable.
-<br />
+
 When the pool finds a block, it is exchanged to XMR and you get paid for your raw hashrate converted to equivalent XMR hashrate.
-<br />
+
 Github Repository: https://github.com/moneroocean/xmrig
 
 ### 1. Install termux on your device from fdroid
