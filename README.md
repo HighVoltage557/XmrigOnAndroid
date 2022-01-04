@@ -17,7 +17,7 @@ Link to termux repository: https://github.com/termux/termux-app/
 You can get the apk from releases and install it.
 
 ### 2. Download the script to compile xmrig and run it:
-```apt install wget -y && wget https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compileintermux.sh && chmod +x compileintermux.sh && ./compileintermux.sh```
+```apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compileintermux.sh | bash```
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
 
@@ -45,7 +45,7 @@ Link to UserLand repository: https://github.com/CypherpunkArmory/UserLAnd
 1.3) It will install Ubuntu and start a terminal session. Enter password to login
 
 ### 2. Download the script to compile xmrig and run it:
-```sudo apt update -y && sudo apt install wget -y && wget https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compile.sh && chmod +x compile.sh && ./compile.sh```
+```sudo apt update -y && sudo apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compile.sh | bash```
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
 
@@ -74,7 +74,7 @@ Link to termux repository: https://github.com/termux/termux-app/
 You can get the apk from releases and install it.
 
 ### 2. Download the script to compile xmrig and run it:
-```apt install wget -y && wget https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compilemoxmrig.sh && chmod +x compilemoxmrig.sh && ./compilemoxmrig.sh```
+```apt install curl -y && curl https://raw.githubusercontent.com/HighVoltage557/XmrigOnAndroid/main/compilemoxmrig.sh | bash```
 
 This script will compile xmrig and will place the built xmrig executable in the directory `xmrig/build`
 
