@@ -1,14 +1,14 @@
 #!/bin/sh
-apt update -y
-apt upgrade -y
-apt install git proot cmake figlet -y
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev figlet -y
 figlet -f small Cloning repository
 git clone https://github.com/moneroocean/xmrig
 mkdir xmrig/build
 cd xmrig/build
-figlet -f small Compiling MO Xxmrig
-cmake -DWITH_HWLOC=OFF ..
+figlet -f small Compiling xmrig
+cmake ..
 make -j$(nproc)
 figlet -f small Done compiling
-apt remove figlet -y
-echo Removed extra packages
+sudo apt remove figlet -y
+echo Removed extra packages.
