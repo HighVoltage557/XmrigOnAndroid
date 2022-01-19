@@ -58,7 +58,7 @@ This script will compile xmrig and will place the built xmrig executable in the 
 3.1.2) Then to run xmrig if you're using the config:
 ```cd && cd xmrig/build && sudo ./xmrig```
 
-<br />
+***
 
 ## (3) Compiling Moneroocean's fork xmrig:
 A brief description of moneroocean: 
