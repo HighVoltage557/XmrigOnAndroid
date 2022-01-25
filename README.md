@@ -4,7 +4,7 @@
 #### The second is to install a linux distribution running on andoid and compile with GCC and hwloc. Termux by default uses Clang to compile.
 #### In my testing, both work well on all algorithms except ghostrider. Building in termux without hwloc results in a large number of rejected shares. (Approximately 66% rejects on ghostrider in my tests)
 #### Unless you want to mine with ghostrider algorithm, termux works fine.
-#### You can algo compile moneroocean's fork of xmrig. See [Mo-xmrig](Compiling-Monerooceans-fork-xmrig)
+#### You can also compile moneroocean's fork of xmrig. See [Mo-xmrig](#compiling-Monerooceans-fork-xmrig)
 
 ***
 
