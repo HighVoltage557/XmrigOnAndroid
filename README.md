@@ -106,3 +106,5 @@ The config is needed for storing the algorithm's hashrate after the benchmark. I
 ```bash
 cd && cd xmrig/build && sudo ./xmrig
 ```
+
+XMR: 42vfQuxJKmNdkXFtYqJ94KgUyadHpgqjyNYCyZvg9y4zYNRUGnt8dng4JdWSjAQuxtUkEisUW5oiaVvJ24fyZDR7MVGK4zU
